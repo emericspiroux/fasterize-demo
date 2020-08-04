@@ -1,0 +1,6 @@
+[submodule "fasterize-api"]
+	path = fasterize-api
+	url = https://github.com/emericspiroux/faterize-api.git
+[submodule "fasterize-front"]
+	path = fasterize-front
+	url = https://github.com/emericspiroux/fasterize-front.git
