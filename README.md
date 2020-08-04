@@ -5,17 +5,13 @@ This repo contain 2 projects :
  - Front: fasterize-front
  
 ## Install
-______
-
-To download all submodule please run this two following commands :
+To download all submodules please run this following command :
 
 ```
-git submodule init;\
-git submodule update
+git clone --recurse-submodule https://github.com/emericspiroux/fasterize-demo.git
 ```
 
 ## Start projects
-_____
 Read corresponding README.md
 
  - fasterize-api: [Readme](https://github.com/emericspiroux/fasterize-api/blob/master/README.md)
